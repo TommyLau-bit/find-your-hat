@@ -34,9 +34,13 @@ Find Your Hat is an interactive terminal-based game where the player navigates t
 Initial Field:
 
 *░O░░
+
 ░O░░░
+
 ░░░O░
+
 O░^░░
+
 ░░O░░
 
 Player Moves:
@@ -45,9 +49,13 @@ Input: down
 Field:
 
 ░░O░░
+
 *O░░░
+
 ░░░O░
+
 O░^░░
+
 ░░O░░
 
 ---
